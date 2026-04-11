@@ -11,8 +11,12 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Student passionate about coding  
-- 💡 HTML, CSS, JavaScript, PHP, Python, MySQL  
+- 🎓 Digital Development Student
+- 💡 HTML, CSS, JavaScript, PHP, Python, MySQL
+- 💻 Future Full-Stack Developer
+- ⚡ Code. Learn. Build. Repeat.
+- 🎯 Focused on becoming better every day
+- 🤲 Step by step, InshaAllah 🤍  
 
 ---
 
