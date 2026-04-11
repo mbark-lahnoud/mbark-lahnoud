@@ -1,4 +1,4 @@
-
+<h1 align="center">👨‍💻 Hi , I'm M'bark 👨‍💻 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+Developer;Learning+Every+Day;Future+Full+Stack+Dev&center=true&width=500&height=40"> </p>
