@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mbark </h1>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+Developer;Learning+Every+Day;Future+Full+Stack+Dev&center=true&width=500&height=40">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Beginner+Developer;Learning+Every+Day;Future+Full+Stack+Dev&center=true&width=500&height=40"> </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
 
 ---
