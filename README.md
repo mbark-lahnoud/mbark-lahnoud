@@ -19,6 +19,23 @@
 
 ---
 
+
+## 🚀 Projects
+
+### 🃏🧠 DEV102 Memory Game
+> 🎮 A fun card matching game with desktop & online versions  
+
+<p align="center">
+  <a href="https://mbark-lahnoud.github.io/DEV102MemoryGame/" target="_blank">
+    <img src="https://img.shields.io/badge/DEV102%20MemoryGame-EXPLORER%20LE%20JEU-red?style=for-the-badge&logo=gamepad&logoColor=white">
+  </a>
+</p>
+
+
+
+---
+
+
 ## ⚙️ Skills
 <p align="center">
   <a href="#">
